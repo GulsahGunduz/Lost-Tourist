@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 0038dc9bfa0bdf7439688cf87c21ce95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3461714570164773087
+    second: atlas_1_buttons_0
+  - first:
+      213: 38000708445079226
+    second: atlas_1_buttons_1
+  - first:
+      213: -2976694886266263619
+    second: atlas_1_buttons_2
+  - first:
+      213: -5785024445490719988
+    second: atlas_1_buttons_3
+  - first:
+      213: 5977819874505234647
+    second: atlas_1_buttons_4
+  - first:
+      213: 2125811187940980168
+    second: atlas_1_buttons_5
+  - first:
+      213: 8501385026085067289
+    second: atlas_1_buttons_6
+  - first:
+      213: -2817782536544494372
+    second: atlas_1_buttons_7
+  - first:
+      213: -5390712571836027794
+    second: atlas_1_buttons_8
+  - first:
+      213: -1001675537982548065
+    second: atlas_1_buttons_9
+  - first:
+      213: 1599728183415057181
+    second: atlas_1_buttons_10
+  - first:
+      213: 8994137079791755731
+    second: atlas_1_buttons_11
+  - first:
+      213: 1961144756704194569
+    second: atlas_1_buttons_12
+  - first:
+      213: 5770041064899090397
+    second: atlas_1_buttons_13
+  - first:
+      213: 6258919454997890821
+    second: atlas_1_buttons_14
+  - first:
+      213: 5504590366965916644
+    second: atlas_1_buttons_15
+  - first:
+      213: -6424474048896695066
+    second: atlas_1_buttons_16
+  - first:
+      213: -5022373638126924211
+    second: atlas_1_buttons_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas_1_buttons_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1731
+        width: 1179
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fd88b70f485ffc0800000000000000
+      internalID: -3461714570164773087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1351
+        width: 1358
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab605186171078000800000000000000
+      internalID: 38000708445079226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_2
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 903
+        width: 386
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7a06ba5c7a0b6d0800000000000000
+      internalID: -2976694886266263619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_3
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 593
+        width: 357
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03139dcae677bfa0800000000000000
+      internalID: -5785024445490719988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_4
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 102
+        width: 316
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d89727018b75f250800000000000000
+      internalID: 5977819874505234647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_5
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 432
+        width: 404
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5f5cc2306608d10800000000000000
+      internalID: 2125811187940980168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_6
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 694
+        width: 280
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a10a293acfaf570800000000000000
+      internalID: 8501385026085067289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_7
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 696
+        width: 273
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc57f656b935e8d0800000000000000
+      internalID: -2817782536544494372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_8
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 694
+        width: 273
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c2b752a775035b0800000000000000
+      internalID: -5390712571836027794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 410
+        width: 264
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f971a52c7655912f0800000000000000
+      internalID: -1001675537982548065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_10
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 415
+        width: 266
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ba2ad9e40633610800000000000000
+      internalID: 1599728183415057181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_11
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1120
+        width: 505
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d12826650891dc70800000000000000
+      internalID: 8994137079791755731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_12
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1122
+        width: 491
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900397004c2673b10800000000000000
+      internalID: 1961144756704194569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_13
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 965
+        width: 500
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd71abc07cd431050800000000000000
+      internalID: 5770041064899090397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_14
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 967
+        width: 501
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5074ee845162cd650800000000000000
+      internalID: 6258919454997890821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_15
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1203
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e36a0136cb346c40800000000000000
+      internalID: 5504590366965916644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 13
+        width: 806
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e40cce04eea7d6a0800000000000000
+      internalID: -6424474048896695066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_1_buttons_17
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 13
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e882a29c1fc4ab0800000000000000
+      internalID: -5022373638126924211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5582a0538da86514c9604d54c078cd19
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      atlas_1_buttons_16: -6424474048896695066
+      atlas_1_buttons_15: 5504590366965916644
+      atlas_1_buttons_9: -1001675537982548065
+      atlas_1_buttons_14: 6258919454997890821
+      atlas_1_buttons_4: 5977819874505234647
+      atlas_1_buttons_6: 8501385026085067289
+      atlas_1_buttons_1: 38000708445079226
+      atlas_1_buttons_17: -5022373638126924211
+      atlas_1_buttons_5: 2125811187940980168
+      atlas_1_buttons_11: 8994137079791755731
+      atlas_1_buttons_13: 5770041064899090397
+      atlas_1_buttons_7: -2817782536544494372
+      atlas_1_buttons_8: -5390712571836027794
+      atlas_1_buttons_0: -3461714570164773087
+      atlas_1_buttons_3: -5785024445490719988
+      atlas_1_buttons_12: 1961144756704194569
+      atlas_1_buttons_2: -2976694886266263619
+      atlas_1_buttons_10: 1599728183415057181
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
