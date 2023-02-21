@@ -23,7 +23,7 @@ public class PlayerHealthController : MonoBehaviour
 
     SpriteRenderer sr;
 
-//    Intersial intersial;
+
     bool show;
 
     private void Awake()
@@ -33,7 +33,6 @@ public class PlayerHealthController : MonoBehaviour
         playerController = Object.FindObjectOfType<PlayerController>();
         anim = GetComponent<Animator>();
 
-      //  intersial = Object.FindObjectOfType<Intersial>();
     }
 
     private void Start()
@@ -74,16 +73,7 @@ public class PlayerHealthController : MonoBehaviour
                 Instantiate(DieEffect, transform.position, transform.rotation);
                 Die();
 
-               /* if (show == false)
-                {
-                    if (intersial.interstitial.IsLoaded())
-                    {
-                        intersial.interstitial.Show();
-                        show = true;
-                    }
-                }
                
-                */
             }
             else
             {
